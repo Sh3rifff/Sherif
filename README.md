@@ -1,6 +1,7 @@
+![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/16320_Android_12_Blog_Header_opt_31x.gif)
 <h1 align="center">Hi 👋, I'm Sharif</h1>
 <h3 align="center">Android developer from Azerbaijan</h3>
-[![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/16320_Android_12_Blog_Header_opt_31x.gif)](https://github.com/Sh3rifff?tab=repositories)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh3rifff&label=Profile%20views&color=0e75b6&style=flat" alt="sh3rifff" /> </p>
 
 <p align="left"> <a href="https://twitter.com/serifsireliyev" target="blank"><img src="https://img.shields.io/twitter/follow/serifsireliyev?logo=twitter&style=for-the-badge" alt="serifsireliyev" /></a> </p>
